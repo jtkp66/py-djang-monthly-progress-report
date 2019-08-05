@@ -7,4 +7,4 @@ def index(request):
 
 
 def survey(request):
-    return render(request, 'pages/survey.html')
+    return render(request, 'pages/create_survey.html')
